@@ -1,2 +1,2 @@
-![example workflow]
-(https://github.com/AlexanderPismenskiy/hexlet_pytest/actions/workflows/pytest_check.yml/badge.svg)
+![Test Status]
+(https://github.com/AlexanderPismenskiy/hexlet_pytest/workflows/pytest_check.yml/badge.svg)
